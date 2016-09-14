@@ -14,3 +14,4 @@ commit feature1
 
 commit en master
 
+commit en feature2
